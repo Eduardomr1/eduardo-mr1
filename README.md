@@ -3,15 +3,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Eduardo Maytorena - Senior Fullstack & QA Automation Engineer" src="./assets/header-dark.svg" width="100%">
+  <img alt="Eduardo Maytorena - Software Engineer | Fullstack & QA Automation" src="./assets/header-dark.svg" width="100%">
 </picture>
 
 <br/>
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Eduardomr1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eduardomr1)
 [![Email](https://img.shields.io/badge/Contact-eduardo__maytorenar%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:eduardo_maytorenar@outlook.com)
-[![Location](https://img.shields.io/badge/Location-Hermosillo%2C%20Sonora%20(MST)-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Senior%20Roles-10b981?style=for-the-badge)](mailto:eduardo_maytorenar@outlook.com)
+[![Location](https://img.shields.io/badge/Location-Culiac%C3%A1n%2C%20Sinaloa%20(MST)-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work%20(Remote%20%7C%20Hybrid%20%7C%20On--site)-10b981?style=for-the-badge)](mailto:eduardo_maytorenar@outlook.com)
 
 <br/>
 
@@ -258,11 +258,11 @@ My repositories are intentionally interconnected to demonstrate the complete lif
 
 ## 📬 Let's Connect
 
-I am open to discussions regarding **Senior Fullstack**, **Lead QA Automation Engineer**, or **Software Architect** roles with teams building robust, high-reliability software.
+I am open to opportunities as a **Fullstack Developer**, **QA Automation Engineer**, or **Software Engineer** with teams building robust, high-reliability software.
 
 * 📧 **Email:** [eduardo_maytorenar@outlook.com](mailto:eduardo_maytorenar@outlook.com)
 * 🐙 **GitHub:** [github.com/Eduardomr1](https://github.com/Eduardomr1)
-* 📍 **Location:** Hermosillo, Sonora, Mexico (MST / UTC-7) — *Available for Remote & Hybrid*
+* 📍 **Location:** Culiacán, Sinaloa, Mexico (MST / UTC-7) — *Available for Remote, Hybrid & On-site*
 * 💬 **Languages:** Spanish (Native) · English (Professional Working Proficiency)
 
 <br/>
